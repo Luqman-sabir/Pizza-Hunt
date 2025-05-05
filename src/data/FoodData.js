@@ -1,7 +1,7 @@
 export const FoodData = [
     {
         id:1,   
-        Image:"/public/images/pizza.avif",
+        Image:"/src/assets/images/pizza.avif",
         name :" onion Pizza",
         price: "150",
         desc : "A delicious pizza topped with fresh onions",
@@ -10,7 +10,7 @@ export const FoodData = [
     },
     {
         id:2,   
-        Image:"/public/images/cake.png",
+        Image:"/src/assets/images/cake.png",
         name :" Clasic pancakes",
         price: "80",
         desc : "Start your day with a stack of fluffy pancakes ser...",
@@ -19,7 +19,7 @@ export const FoodData = [
     },
      {
         id:3,   
-        Image:"/public/images/platter.png",
+        Image:"/src/assets/images/platter.png",
         name :"Cheese and Crackers Platte",
         price: "120",
         desc : "Enjoy a variety of artisan cheeses, paired with an...",
@@ -28,7 +28,7 @@ export const FoodData = [
     },
     {
         id:4,   
-        Image:"/public/images/alfredo.png",
+        Image:"/src/assets/images/alfredo.png",
         name :" Chicken Alfredo Pasta",
         price: "160",
         desc : "Indulge in creamy fettuccine Alfredo pasta with te...",
@@ -37,7 +37,7 @@ export const FoodData = [
     },
     {
         id:5,   
-        Image:"/public/images/pizza.avif",
+        Image:"/src/assets/images/pizza.avif",
         name :" onion Pizza",
         price: "150",
         desc : "A delicious pizza topped with fresh onions",
@@ -46,7 +46,7 @@ export const FoodData = [
     },
     {
         id:6,   
-        Image:"/public/images/cake.png",
+        Image:"/src/assets/images/cake.png",
         name :" Clasic pancakes",
         price: "80",
         desc : "Start your day with a stack of fluffy pancakes ser...",
@@ -55,7 +55,7 @@ export const FoodData = [
     },
      {
         id:7,   
-        Image:"/public/images/platter.png",
+        Image:"/src/assets/images/platter.png",
         name :"Cheese and Crackers Platte",
         price: "120",
         desc : "Enjoy a variety of artisan cheeses, paired with an...",
@@ -64,7 +64,7 @@ export const FoodData = [
     },
     {
         id:8,   
-        Image:"/public/images/alfredo.png",
+        Image:"/src/assets/images/alfredo.png",
         name :" Chicken Alfredo Pasta",
         price: "160",
         desc : "Indulge in creamy fettuccine Alfredo pasta with te...",
@@ -73,7 +73,7 @@ export const FoodData = [
     },
     {
         id:9,   
-        Image:"/public/images/pizza.avif",
+        Image:"/src/assets/images/pizza.avif",
         name :" onion Pizza",
         price: "150",
         desc : "A delicious pizza topped with fresh onions",
@@ -82,7 +82,7 @@ export const FoodData = [
     },
     {
         id:10,   
-        Image:"/public/images/cake.png",
+        Image:"/src/assets/images/cake.png",
         name :" Clasic pancakes",
         price: "80",
         desc : "Start your day with a stack of fluffy pancakes ser...",
@@ -91,7 +91,7 @@ export const FoodData = [
     },
      {
         id:11,   
-        Image:"/public/images/platter.png",
+        Image:"/src/assets/images/platter.png",
         name :"Cheese and Crackers Platte",
         price: "120",
         desc : "Enjoy a variety of artisan cheeses, paired with an...",
@@ -100,7 +100,7 @@ export const FoodData = [
     },
     {
         id:12,   
-        Image:"/public/images/alfredo.png",
+        Image:"/src/assets/images/alfredo.png",
         name :" Chicken Alfredo Pasta",
         price: "160",
         desc : "Indulge in creamy fettuccine Alfredo pasta with te...",
@@ -109,7 +109,7 @@ export const FoodData = [
     },
     {
         id:13,   
-        Image:"/public/images/pizza.avif",
+        Image:"/src/assets/images/pizza.avif",
         name :" onion Pizza",
         price: "150",
         desc : "A delicious pizza topped with fresh onions",
@@ -118,7 +118,7 @@ export const FoodData = [
     },
     {
         id:14,   
-        Image:"/public/images/cake.png",
+        Image:"/src/assets/images/cake.png",
         name :" Clasic pancakes",
         price: "80",
         desc : "Start your day with a stack of fluffy pancakes ser...",
@@ -127,7 +127,7 @@ export const FoodData = [
     },
      {
         id:15,   
-        Image:"/public/images/platter.png",
+        Image:"/src/assets/images/platter.png",
         name :"Cheese and Crackers Platte",
         price: "120",
         desc : "Enjoy a variety of artisan cheeses, paired with an...",
@@ -136,7 +136,7 @@ export const FoodData = [
     },
     {
         id:16,   
-        Image:"/public/images/alfredo.png",
+        Image:"/src/assets/images/alfredo.png",
         name :" Chicken Alfredo Pasta",
         price: "160",
         desc : "Indulge in creamy fettuccine Alfredo pasta with te...",
